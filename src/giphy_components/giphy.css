@@ -1,0 +1,9 @@
+.Giphy-Image {
+    height: 400px;
+    width: 400px;
+    background-color: gray;
+}
+
+.Giphy-Label{
+    display: block;
+}
